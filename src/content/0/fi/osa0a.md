@@ -95,7 +95,7 @@ Suorittamalla vähintään 24/29 tehtävää kurssin yhdeksännestä, TypeScript
 
 #### Osa 10 - Full Stack ‑websovelluskehitys: React Native (2 op, CSM14111, englanniksi)
 
-Suorittamalla 25 tehtävää kurssin kymmenennestä, React Nativea käsittelevästä osasta, voit laajentaa suoritustasi kahdella opintopisteellä. Lisätietoja osan esitietovaatimuksista, tehtävien palauttamisesta ja opintopisteistä löydät [osasta 10](/en/part10/introduction_to_react_native).
+Suorittamalla 25 tehtävää kurssin kymmenennestä, React Nativea käsittelevästä osasta, voit laajentaa suoritustasi kahdella opintopisteellä. Lisätietoja osan esitietovaatimuksista, tehtävien palauttamisesta ja opintopisteistä löydät [osasta 10](/en/part10).
 
 -	Tee vähintään 25 tehtävää osasta 10. 
 -	[Ilmoittaudu tähän osaan Avoimen yliopiston kautta.](https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-ec172afe-bc01-46ab-af23-694311f1950a)
