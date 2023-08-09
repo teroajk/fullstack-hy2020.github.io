@@ -208,7 +208,7 @@ Vaikka sovellus näyttää toimivan, konsoliin tulee ikävä varoitus:
 
 ![](../../images/2/1a.png)
 
-Kuten virheilmoituksen linkittämä [sivu](https://reactjs.org/docs/lists-and-keys.html#keys) kertoo, tulee taulukossa olevilla, eli käytännössä _map_-metodilla muodostetuilla elementeillä olla uniikki avain, eli attribuutti nimeltään <i>key</i>.
+Kuten virheilmoituksen linkittämä [sivu](https://react.dev/learn/rendering-lists#keeping-list-items-in-order-with-key) kertoo, tulee taulukossa olevilla, eli käytännössä _map_-metodilla muodostetuilla elementeillä olla uniikki avain, eli attribuutti nimeltään <i>key</i>.
 
 Lisätään avaimet:
 
