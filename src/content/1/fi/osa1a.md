@@ -29,9 +29,9 @@ Konsoli kertoo että sovellus on käynnistynyt localhostin porttiin 5173, eli os
 
 ![](../../images/1/1-vite1.png)
 
-Vite käynnistää sovelluksen [oletusarvoisesti](https://vitejs.dev/config/server-options.html#server-port) porttiin 5173. Jos se ei ole vapaana, käyttä Vite seuraavaa vapaata porttinumeroa.
+Vite käynnistää sovelluksen [oletusarvoisesti](https://vitejs.dev/config/server-options.html#server-port) porttiin 5173. Jos se ei ole vapaana, käyttää Vite seuraavaa vapaata porttinumeroa.
 
-Avataan selan sekä tekstieditori siten, että näet koodin ja web-sivun samaan aikaan ruudulla:
+Avataan selain sekä tekstieditori siten, että koodi ja web-sivu näkyvät samaan aikaan ruudulla:
 
 ![](../../images/1/1-vite4.png)
 
@@ -62,13 +62,13 @@ Tiedostot <i>App.css</i> ja <i>index.css</i> sekä hakemiston <i>assets</i> voi 
 
 ### create-react-app
 
-Voit halutessasi käyttä kurssilla Viten sijaan myös [create-react-app](https://github.com/facebookincubator/create-react-app)-nimistä sovellusta. Näkyvin ero Viteen on sovelluksen aloitustiedoston nimi, joka on <i>index.js</i>. Myös sovelluksen käynnistämistapa eroaa, käynnistäminen tapahtuu komennolla 
+Voit halutessasi käyttää kurssilla Viten sijaan myös [create-react-app](https://github.com/facebookincubator/create-react-app)-nimistä sovellusta. Näkyvin ero Viteen on sovelluksen aloitustiedoston nimi, joka on <i>index.js</i>. Myös sovelluksen käynnistämistapa eroaa, käynnistäminen tapahtuu komennolla 
 
 ```
 npm start
 ```
 
-Kurssia ollaan tällä hetkellä (11.8.2023) päivittämässä käyttämään Viteä. Joissain erimerkeissä voi vielä olla käytössä create-react-app:illa luotu sovelluspohja.
+Kurssia ollaan tällä hetkellä (11.8.2023) päivittämässä käyttämään Viteä. Joissain esimerkeissä voi vielä olla käytössä create-react-app:illa luotu sovelluspohja.
 
 ### Komponentti
 
